@@ -1,0 +1,2 @@
+ ficha.endereco.numero = 10;
+ficha.endereco.CEP=31340230;
